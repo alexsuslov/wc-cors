@@ -1,0 +1,14 @@
+{
+  "name": "wc-cors",
+  "version": "0.0.1",
+  "description": "angular fullstack server api cors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cors"
+  ],
+  "author": "Alex Suslov",
+  "license": "MIT"
+}

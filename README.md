@@ -15,4 +15,4 @@ Project file "server/api/{name}/index.js"
   router.cors('/*');
 ```
 
-Careful can be security issues
+Careful! Can be security issues
